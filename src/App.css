@@ -1,0 +1,13 @@
+.App {
+    background-color: black;
+    
+  }
+  .b1{
+    align-items: center;
+    justify-content: space-around;
+    width: 1500px;
+    height: 500px;
+    display: flex;
+  }
+  
+
